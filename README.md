@@ -1,5 +1,7 @@
 # base-ong-client-android
 Repositorio base para Caso ONG de Android!
+Proyecto realizado junto con el Team que ingresó a la aceleración de Alkemy en Kotlin (Enero a Febrero de 2022)
+
 
 ## Requerimientos
 Para poder utilizar el login de facebook correctamente cada desarrollador se debe generar una clave Hash para guardarla en la consola de Facebook, sino no les va a funcionar el inicio de sesion con Facebook desde la aplicación.  
